@@ -1,5 +1,5 @@
 <div align="center">
-<h2>[2023] Smart Black-Box </h2>
+<h2>[2023] Smart Black Box </h2>
 </div>
 
 ## 목차
@@ -8,7 +8,7 @@
   - [설계 내용](#설계-내용)
 
 ## 개요
-- 프로젝트 이름: Smart Black-Box 
+- 프로젝트 이름: Smart Black Box 
 - 프로젝트 기간: 2023.09 ~ 2023.11
 - 개발 엔진 및 언어:
 
