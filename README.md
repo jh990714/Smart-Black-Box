@@ -19,6 +19,8 @@
 |:---:|:---:|
 |Input|Output|
 
+https://github.com/jh990714/Smart-Black-Box/assets/144774186/84863797-de2b-4fb9-8fbc-05d7793bdc81
+
 <br>
 
 ### ° 아이콘 설명
@@ -50,7 +52,10 @@
 
 판별과정
 
-|![판별_원본](https://github.com/jh990714/Smart-Black-Box/assets/144774186/d6b985a1-9b4f-4fd2-8b71-86db60600127)|![판별_마스킹](https://github.com/jh990714/Smart-Black-Box/assets/144774186/57a0f836-89d1-4d16-a011-d4055302b56c)|![판별_결과](https://github.com/jh990714/Smart-Black-Box/assets/144774186/eee6e136-c5a5-4cbf-89c5-7f1c7a696472)|
+|![판별_원본](https://github.com/jh990714/Smart-Black-Box/assets/14477418
+
+
+6/d6b985a1-9b4f-4fd2-8b71-86db60600127)|![판별_마스킹](https://github.com/jh990714/Smart-Black-Box/assets/144774186/57a0f836-89d1-4d16-a011-d4055302b56c)|![판별_결과](https://github.com/jh990714/Smart-Black-Box/assets/144774186/eee6e136-c5a5-4cbf-89c5-7f1c7a696472)|
 |:---:|:---:|:---:|
 |원본 이미지|마스킹 이미지|판별 결과|
 
