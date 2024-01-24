@@ -18,6 +18,7 @@
 |![input](https://github.com/jh990714/Smart-Blackbox/assets/144774186/b2a409c2-cfe5-4884-920e-b508239a5bd9)|![output](https://github.com/jh990714/Smart-Blackbox/assets/144774186/600b3892-6354-4084-80ae-4a71149bbe11)|
 |:---:|:---:|
 |Input|Output|
+
 <br>
 
 ### ° 아이콘 설명
