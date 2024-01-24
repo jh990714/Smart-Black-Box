@@ -37,6 +37,11 @@ https://github.com/jh990714/Smart-Black-Box/assets/144774186/84863797-de2b-4fb9-
 ## 설계 내용
 ### ° Object Detection, Instance Segmentation, OCR
 
+|![image](https://github.com/jh990714/Smart-Black-Box/assets/144774186/a8f0eb15-41a1-43ed-b605-d081191c3264)|![image](https://github.com/jh990714/Smart-Black-Box/assets/144774186/36b445e3-d1c3-41da-a7f4-b39081578c88)|![image](https://github.com/jh990714/Smart-Black-Box/assets/144774186/925845f5-579a-4a6d-a48f-4095bf226a30)|
+|:---:|:---:|:---:|
+|![image](https://github.com/jh990714/Smart-Black-Box/assets/144774186/f779375c-29e2-4f3c-8aa4-dcddf75d56f7)|![image](https://github.com/jh990714/Smart-Black-Box/assets/144774186/92c8f39c-0989-4245-b626-828c53bc424f)|![image](https://github.com/jh990714/Smart-Black-Box/assets/144774186/8cc1eb6b-9a99-4946-8cdb-77eff8ad034b)|
+|차, 번호판, 보행자<br>Object Detection|차선, 정지선, 횡단보도<br>Instance Segmentation|번호판 OCR|
+
 - Object Dectection과 Instance Segmentation은 YOLOv8를 사용하여 학습
 - 차, 번호판, 보행자를 학습하여 Object Dectection 모델 생성
 - 차선, 정지선, 횡단보도를 학습하여 Instance Segmentation 모델 생성
@@ -52,10 +57,7 @@ https://github.com/jh990714/Smart-Black-Box/assets/144774186/84863797-de2b-4fb9-
 
 판별과정
 
-|![판별_원본](https://github.com/jh990714/Smart-Black-Box/assets/14477418
-
-
-6/d6b985a1-9b4f-4fd2-8b71-86db60600127)|![판별_마스킹](https://github.com/jh990714/Smart-Black-Box/assets/144774186/57a0f836-89d1-4d16-a011-d4055302b56c)|![판별_결과](https://github.com/jh990714/Smart-Black-Box/assets/144774186/eee6e136-c5a5-4cbf-89c5-7f1c7a696472)|
+|![판별_원본](https://github.com/jh990714/Smart-Black-Box/assets/144774186/d6b985a1-9b4f-4fd2-8b71-86db60600127)|![판별_마스킹](https://github.com/jh990714/Smart-Black-Box/assets/144774186/57a0f836-89d1-4d16-a011-d4055302b56c)|![판별_결과](https://github.com/jh990714/Smart-Black-Box/assets/144774186/eee6e136-c5a5-4cbf-89c5-7f1c7a696472)|
 |:---:|:---:|:---:|
 |원본 이미지|마스킹 이미지|판별 결과|
 
