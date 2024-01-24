@@ -4,7 +4,7 @@
 
 ## 목차
   - [개요](#개요) 
-  - [프로젝트 설명](#프로젝트-설명)
+  - [프로젝트 구현 결과](#프로젝트-구현-결과)
   - [설계 내용](#설계-내용)
 <br><br>
 
@@ -14,12 +14,12 @@
 - 개발 엔진 및 언어:
 <br><br>
 
-## 프로젝트 설명
+## 프로젝트 구현 결과
 |![input](https://github.com/jh990714/Smart-Blackbox/assets/144774186/b2a409c2-cfe5-4884-920e-b508239a5bd9)|![output](https://github.com/jh990714/Smart-Blackbox/assets/144774186/600b3892-6354-4084-80ae-4a71149bbe11)|
 |:---:|:---:|
 |Input|Output|
 
-https://github.com/jh990714/Smart-Black-Box/assets/144774186/84863797-de2b-4fb9-8fbc-05d7793bdc81
+https://github.com/jh990714/Smart-Black-Box/assets/144774186/6f53c517-bf79-4939-b7e9-9d6efb856f70
 
 <br>
 
