@@ -5,11 +5,12 @@ import timeit
 import pymysql
 import threading
 import numpy as np
+
 from matplotlib.path import Path
 from ultralytics import YOLO
-sys.path.append('deepOCR')
 from ocr import OCRModel
 from PIL import ImageFont, ImageDraw, Image
+from ocr import OCRModel
 
 class Car:
     def __init__ (self, id, bbox, car_img, segment=None, lane=None, plate_num=None):
@@ -682,7 +683,7 @@ model_cls = YOLO('weight\\best_classify.pt')
 model_cls.to('cuda')
 
 # video 파일 열기
-video_path = "demo\\주행5.mp4"
+video_path = ""
 cap = cv2.VideoCapture(video_path)
 # frame_count = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
 # num_frames = len(speeds)
