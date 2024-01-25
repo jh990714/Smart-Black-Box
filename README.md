@@ -69,7 +69,8 @@ https://github.com/jh990714/Smart-Black-Box/assets/144774186/6f53c517-bf79-4939-
 ### ° 차로 판단 Algorithm
 
 원의 방정식과 직선의 방정식을 연립하여 원과 차선의 접점을 계산
-![차로판단](https://github.com/jh990714/Smart-Black-Box/assets/144774186/f2e8969d-be49-41a5-ad2c-8cf3a84405f1)
+|![차로판단](https://github.com/jh990714/Smart-Black-Box/assets/144774186/f2e8969d-be49-41a5-ad2c-8cf3a84405f1)|
+|---|
 
 - 차선의 순서를 판단 ( 첫 번째 차선, 두 번째 차선, ... )
 - 사용자 차량의 차로( 파란선 )뿐만 아니라 다른 차량의 차로도 판단
