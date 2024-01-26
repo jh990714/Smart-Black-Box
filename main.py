@@ -10,7 +10,6 @@ from matplotlib.path import Path
 from ultralytics import YOLO
 from ocr import OCRModel
 from PIL import ImageFont, ImageDraw, Image
-from ocr import OCRModel
 
 class Car:
     def __init__ (self, id, bbox, car_img, segment=None, lane=None, plate_num=None):
