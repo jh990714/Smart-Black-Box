@@ -12,6 +12,11 @@
 - 프로젝트 이름: Smart Black Box 
 - 프로젝트 기간: 2023.09 ~ 2023.11
 - 개발 엔진 및 언어:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
 <br><br>
 
 ## 프로젝트 구현 결과
